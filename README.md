@@ -6,3 +6,6 @@ StreamVibe lets you stream your media library to any device with a simple setup.
 - Supports video, audio, and images
 - Multi-device streaming
 - Custom playlists
+## Installation
+1. Clone the repo: `git clone https://github.com/user/streamvibe.git`
+2. Install dependencies: `pip install -r requirements.txt`
