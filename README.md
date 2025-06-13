@@ -12,3 +12,6 @@ StreamVibe lets you stream your media library to any device with a simple setup.
 ## Setup
 Run the server with: `python server.py --port 8080`
 Access StreamVibe at `http://localhost:8080`.
+## System Requirements
+- Python 3.8+
+- FFmpeg 4.0+
