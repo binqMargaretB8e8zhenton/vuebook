@@ -15,3 +15,5 @@ Access StreamVibe at `http://localhost:8080`.
 ## System Requirements
 - Python 3.8+
 - FFmpeg 4.0+
+## Usage Example
+
