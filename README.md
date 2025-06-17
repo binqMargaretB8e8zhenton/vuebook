@@ -17,3 +17,5 @@ Access StreamVibe at `http://localhost:8080`.
 - FFmpeg 4.0+
 ## Usage Example
 
+## Contributing
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
