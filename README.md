@@ -19,3 +19,5 @@ Access StreamVibe at `http://localhost:8080`.
 
 ## Contributing
 Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+## License
+StreamVibe is licensed under the Apache 2.0 License. See [LICENSE](LICENSE).
