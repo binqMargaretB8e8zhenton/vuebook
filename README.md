@@ -23,3 +23,6 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 StreamVibe is licensed under the Apache 2.0 License. See [LICENSE](LICENSE).
 ## Testing
 Run tests with: `pytest tests/`
+## FAQ
+Q: Which formats are supported?
+A: See [formats.md](docs/formats.md) for a full list of supported media formats.
