@@ -26,3 +26,5 @@ Run tests with: `pytest tests/`
 ## FAQ
 Q: Which formats are supported?
 A: See [formats.md](docs/formats.md) for a full list of supported media formats.
+## Community
+Join our discussions on [Discord](https://discord.gg/streamvibe).
