@@ -30,3 +30,4 @@ A: See [formats.md](docs/formats.md) for a full list of supported media formats.
 Join our discussions on [Discord](https://discord.gg/streamvibe).
 ## Troubleshooting
 Check [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for common issues and solutions.
+[![Build Status](https://github.com/user/streamvibe/workflows/build/badge.svg)](https://github.com/user/streamvibe/actions)
